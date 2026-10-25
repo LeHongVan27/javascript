@@ -9,5 +9,5 @@ function upDate(previewPic) {
 function undo() {
   let imageDiv = document.getElementById("image");
   imageDiv.style.backgroundImage = "url('')";
-  imageDiv.innerHTML = "Hover over an image below to display here.";
+  imageDiv.innerHTML = "Thông Tin.";
 }
